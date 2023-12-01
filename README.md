@@ -3,4 +3,4 @@
 
 If you're up for collaborating on exciting projects or just want to chat about the amazing world of Deep Learning and Computer Vision, reach out! Let's connect, share ideas, and make meaningful contributions to AI and Vision. 🌍🤝🧠
 
-* 📧 Email Address: vahdat.nima@gmail.com
+* 📧 Email Address: nimavah@yorku.ca
